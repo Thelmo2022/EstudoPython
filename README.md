@@ -3,6 +3,5 @@
 > Iniciando estudo
 
 ```
-Formato markdow
-
+node app.js
 ```
